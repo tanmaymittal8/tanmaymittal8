@@ -6,7 +6,7 @@ I build systems close to the metal and models on top of the data they produce �
 
 **Currently looking for full-time software engineering roles** — backend, systems, or ML infrastructure. Open to relocation.
 
-📫 [email](tanmaymittaldev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmay-mittal/)
+📫 [tanmaymittaldev@gmail.com](mailto:tanmaymittaldev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmay-mittal/)
 
 ---
 
