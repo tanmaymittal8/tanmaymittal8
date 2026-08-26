@@ -2,7 +2,7 @@
 
 **MS Computer Science, University of Illinois Urbana-Champaign** (Aug 2026) · BS Computer Engineering, UIUC
 
-I build systems close to the metal and models on top of the data they produce — real-time C++ sensor pipelines, an x86 kernel from scratch, retrieval systems over six-figure document corpora. Most recently I spent the summer at CNH Industrial (Raven) making a production perception pipeline absorb 3x more data without slowing down.
+I like problems where performance actually matters, real-time C++ sensor pipelines, an x86 kernel from scratch, retrieval systems over six-figure document corpora. Most recently I spent the summer at CNH Industrial (Raven) making a production perception pipeline absorb 3x more data without slowing down.
 
 **Currently looking for full-time software engineering roles** — backend, systems, or ML infrastructure. Open to relocation.
 
