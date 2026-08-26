@@ -36,5 +36,7 @@ Serverless AI chatbot on Azure Functions behind a REST API. Built the ingestion 
 ### Tools
 
 **Languages** Java · Python · C/C++ · SQL · JavaScript · x86 Assembly · MATLAB
+
 **Frameworks** React · Node.js · Flask · REST APIs · PyTorch · TensorFlow · scikit-learn · pandas · JUnit
+
 **Infrastructure** Docker · Kubernetes · AWS · Azure · Databricks · Linux · Git · MongoDB · Neo4j
